@@ -1,35 +1,8 @@
 # Image Editor
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ferikunn/Image-Editor/stargazers">
-    <img src="https://img.shields.io/github/stars/ferikunn/Image-Editor?style=social">
-
-  </a>
-  
-  <a href="https://github.com/ferikunn/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/ferikunn/Image-Editor?label=Fork&style=social">
-
-  </a>  
-</p>
-
-[![Channel](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/hanyabotferi)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![Groups](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/masukajaudhh)  [![Feri](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://t.me/xflicks)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/ferikunn/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Image-Editor)
-
-
-
-
-
+!https://telegra.ph/file/eb998dc9e685a2f9ea6a1.jpg
 #### An open source image editor which can manipulate an image in many ways!
-#### If you need any more modes in repo or If you find out any bugs, mention in @TroJanzSupport
+#### If you need any more modes in repo or If you find out any bugs, mention in @xflicks
 
 ## Installation
 
