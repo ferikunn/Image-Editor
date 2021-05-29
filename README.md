@@ -1,6 +1,6 @@
 # Image Editor
 
-!https://telegra.ph/file/eb998dc9e685a2f9ea6a1.jpg
+![logo](https://telegra.ph/file/eb998dc9e685a2f9ea6a1.jpg)
 #### An open source image editor which can manipulate an image in many ways!
 #### If you need any more modes in repo or If you find out any bugs, mention in @xflicks
 
