@@ -4,7 +4,7 @@ class script(object):
 
 Saya adalah Bot Editor Gambar yang Mendukung berbagai mode
 
-For more click help....</b>"""
+Untuk lebih lanjut Pencet help....</b>"""
     HELP_MSG = """Hai, Ikuti Langkah-langkah ini..
 
 <code>🔰 Kirimi saya Gambar apa pun untuk diedit..</code>
